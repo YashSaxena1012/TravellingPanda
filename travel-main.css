@@ -228,7 +228,7 @@ html {
     margin: 1rem 0rem;
 }
 
-.pics {
+.pics,.more {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
