@@ -228,12 +228,16 @@ html {
     margin: 1rem 0rem;
 }
 
-.pics ,.more{
+.pics {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
-
+.more{
+ display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
 .pics li {
     list-style: none;
     margin-bottom: 2rem;
